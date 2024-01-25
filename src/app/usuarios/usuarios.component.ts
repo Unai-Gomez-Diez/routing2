@@ -14,6 +14,6 @@ export class UsuariosComponent implements OnInit {
 
   }
   navegarEntreComponent() {
-    this.router.navigate(["/posts"])
+    this.router.navigate(["/post"])
   }
 }
